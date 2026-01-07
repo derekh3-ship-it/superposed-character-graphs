@@ -1,0 +1,25 @@
+{
+  "name": "superposed-character-graphs",
+  "version": "1.0.0",
+  "description": "Arc-based interactive fiction prototype - Lifeboat scenario",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "play": "tsx src/index.ts"
+  },
+  "keywords": [
+    "interactive-fiction",
+    "narrative",
+    "arc-graph"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^25.0.3",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
