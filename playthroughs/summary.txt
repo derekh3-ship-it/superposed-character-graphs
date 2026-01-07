@@ -1,0 +1,69 @@
+═══════════════════════════════════════════════════════════════════════════
+PLAYTHROUGH SUMMARY
+═══════════════════════════════════════════════════════════════════════════
+
+Strategy: random
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 1 triggered, 0 foreclosed
+  Trust: 0.15 avg
+
+Strategy: high_drama
+  Ending: bittersweet
+  Mira: closed | Selin: closed | Ver: accepted
+  Arcs: 4 triggered, 0 foreclosed
+  Trust: 0.25 avg
+
+Strategy: maximize_mira_trust
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 1 triggered, 0 foreclosed
+  Trust: 0.07 avg
+
+Strategy: maximize_selin_trust
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 1 triggered, 0 foreclosed
+  Trust: 0.23 avg
+
+Strategy: maximize_ver_trust
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 1 triggered, 0 foreclosed
+  Trust: 0.12 avg
+
+Strategy: mira_full_arc
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 1 triggered, 0 foreclosed
+  Trust: 0.15 avg
+
+Strategy: selin_full_arc
+  Ending: bittersweet
+  Mira: closed | Selin: release | Ver: private
+  Arcs: 4 triggered, 0 foreclosed
+  Trust: 0.32 avg
+
+Strategy: ver_full_arc
+  Ending: bittersweet
+  Mira: closed | Selin: closed | Ver: accepted
+  Arcs: 4 triggered, 0 foreclosed
+  Trust: 0.30 avg
+
+Strategy: completionist
+  Ending: bittersweet
+  Mira: closed | Selin: closed | Ver: accepted
+  Arcs: 4 triggered, 0 foreclosed
+  Trust: 0.33 avg
+
+Strategy: gentle_witness
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 1 triggered, 0 foreclosed
+  Trust: 0.12 avg
+
+Strategy: curious_catalyst
+  Ending: quiet
+  Mira: closed | Selin: closed | Ver: private
+  Arcs: 2 triggered, 0 foreclosed
+  Trust: 0.02 avg

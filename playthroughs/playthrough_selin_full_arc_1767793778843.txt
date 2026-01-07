@@ -1,0 +1,572 @@
+═══════════════════════════════════════════════════════════════════════════
+SUPERPOSED CHARACTER GRAPHS - PLAYTHROUGH
+═══════════════════════════════════════════════════════════════════════════
+
+Strategy: selin_full_arc
+Total Choices: 16
+Arcs Triggered: 4
+Average Trust: 0.32
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 1: Surface
+[Tension: 70% | Hour: 0.0]
+
+The water is still warm from the ship's heat. That's the first wrong thing
+you notice—warmth where there should be cold, the Mediterranean holding
+the memory of fire.
+
+The lifeboat rocks. Four of you made it. You don't know how. The last
+twenty minutes are a blur of shouting and smoke and hands reaching in
+darkness, and then you were here, in this small wooden world, watching
+the lights of the ship slide under.
+
+Twenty minutes ago you were a passenger. Now you're a survivor. The
+difference is everything.
+
+The others are shapes in the darkness. A woman at the bow, already
+moving with purpose—checking something, organizing something. A young
+man pressed against the side, arms wrapped around a leather bag like
+it's the only solid thing left in the world. An older woman sitting
+very still, watching the place where the ship used to be.
+
+Stars. No moon yet. The Pharos light sweeping somewhere to the south—
+you can see its glow on the horizon, but not the beam itself. Alexandria
+is that way. Twenty miles, maybe thirty. A lifetime, in a boat like this.
+
+Someone should say something. Someone should take charge.
+
+  > The young man is clutching that bag like his life depends on it.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.00]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 2: The Bag
+[Tension: 70% | Hour: 0.0]
+
+The young man is pressed against the side of the boat, arms wrapped
+around a leather bag. It's not large—document-sized, maybe. The kind
+of thing you'd carry papers in, or a laptop.
+
+He's holding it like it's the only thing that kept him alive. Like
+letting go would mean drowning, even now, even on the solid wood of
+the lifeboat.
+
+There's blood on his face—scalp wound, it looks like, the kind that
+bleeds dramatically but doesn't kill you. But he's not touching the
+wound. He's not checking if he's okay. He's just holding the bag.
+
+The doctor has noticed too. She's making her way toward him, that
+professional calm already in place. She'll handle the medical part.
+
+But you're watching his hands. The way his knuckles are white. The
+way his eyes keep darting to anyone who gets too close.
+
+He sees you looking. His grip tightens.
+
+"I'm fine," he says. Before you ask anything. Before anyone has.
+"I'm fine."
+
+  > "Whatever's in there, it made it. You made it. That's something."
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.00]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 3: Acknowledged
+[Tension: 70% | Hour: 0.0]
+
+Something shifts in his face. The wariness doesn't disappear, but
+it changes quality—from defensive to something more like confusion.
+Like he expected accusation and got something else instead.
+
+"Yeah," he says slowly. "It made it."
+
+He looks down at the bag. For a moment his grip loosens, just slightly—
+not letting go, but not clutching quite so desperately.
+
+"Someone—" He stops. Starts again. "I need to get it somewhere.
+That's all. It's important."
+
+The doctor reaches him, starts examining his head wound. He lets
+her work, but he keeps talking to you, like now that he's started
+he can't quite stop.
+
+"Not dangerous. Nothing like that. Just... important to someone.
+Was important." He catches the slip. "Is important."
+
+"I'm Selin," he says. "That's my name."
+
+It's not an explanation. But it's not nothing, either.
+
+  > "Selin. I'm— We'll figure it out. The bag, and everything."
+
+  [Trust - Mira: 0.00, Selin: 0.15, Ver: 0.00]
+  [Triggered: selin.suspicion_noted]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 4: Settling
+[Tension: 70% | Hour: 0.0]
+
+The first hour passes in small tasks. Someone finds the sea anchor
+in the emergency kit—a canvas cone that drags in the water and keeps
+you from drifting too fast. Someone else distributes the oars, one
+on each side, though no one starts rowing yet. There's the unspoken
+agreement that decisions can wait until the shock has faded.
+
+Names happen somewhere in there. Mira—the doctor, though she doesn't
+use the word. Ver—the older woman with the calm eyes. Selin—the young
+man, though his comes last and reluctantly.
+
+And you. The fourth. The variable.
+
+Selin has relaxed slightly. Not much, but the death-grip on the bag
+has eased to something merely protective. Whatever you said, it helped.
+
+The stars wheel overhead. The Pharos light sweeps its distant glow.
+
+You're alive. You're floating. Everything else is still uncertain.
+
+  > Let the first hour pass. See what the night brings.
+
+  [Trust - Mira: 0.00, Selin: 0.25, Ver: 0.00]
+  [Triggered: selin.suspicion_noted]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 5: Settling
+[Tension: 50% | Hour: 1.5]
+
+The moon rises. Half full, silver-white, enough light to see faces now
+instead of just shapes. The boat feels smaller in the moonlight—the
+four of you closer together, the sea larger all around.
+
+Someone has found a more comfortable position. Someone else has stopped
+shivering, or started. The immediate crisis is past, but the longer
+crisis—the one measured in hours and water rations and distance to
+shore—is just beginning to make itself known.
+
+Mira is sitting near the bow, watchful. Even resting, she has the
+posture of someone ready to respond. Ver is at the stern, looking at
+the stars the way someone might look at old friends. Selin is between
+them, the bag still in his lap, though his grip has eased from desperate
+to merely protective.
+
+The silence isn't uncomfortable. Not yet. But it's full of things unsaid.
+
+  > Sit near Selin. He's been quiet. Wary.
+
+  [Trust - Mira: 0.00, Selin: 0.25, Ver: 0.00]
+  [Triggered: selin.suspicion_noted]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 6: Talking to Selin
+[Tension: 50% | Hour: 1.5]
+
+You sit near Selin—not too close. He's still holding the bag, but
+his grip has eased. The wariness is there, but muted.
+
+"You okay?" you ask.
+
+"Okay." He tests the word. "I'm alive. We're alive. That's something."
+
+He looks down at the bag.
+
+"I keep thinking about what would have happened if I'd lost it.
+In the water. If I'd had to choose between—" He stops.
+
+"You didn't have to choose. It made it. You made it."
+
+"Yeah." He's quiet for a moment. "She'd be glad. The person who—
+she'd be glad I made it."
+
+It's the most he's said about whoever gave him the bag.
+
+  > "She? Who was she?"
+
+  [Trust - Mira: 0.00, Selin: 0.30, Ver: 0.00]
+  [Triggered: selin.suspicion_noted]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 7: Selin - Her
+[Tension: 50% | Hour: 1.5]
+
+He's quiet for a long moment. You can see him deciding.
+
+"Someone I met on the ship. Just—someone." He looks at the bag.
+"A professor. History. She was going to a conference."
+
+He pauses.
+
+"She talked about her work all through dinner. Documents. Old legal
+records. I didn't understand half of it, but she made it sound..."
+He struggles for the word. "Important. Beautiful, even."
+
+"And the bag?"
+
+"Her research. All of it. She gave it to me when—" His voice catches.
+"When the water started coming in. She said I was young. Said I'd make it."
+
+The words hang in the air.
+
+"She didn't make it," you say. Not a question.
+
+"No." Very quiet. "She didn't even try. She just made sure I had the
+bag, and then she was gone."
+
+His grip tightens. Not defensive anymore. Protective. Of something
+that isn't his but that he's carrying anyway.
+
+  > "We'll get it where it needs to go. Together."
+
+  [Trust - Mira: 0.00, Selin: 0.30, Ver: 0.00]
+  [Triggered: selin.suspicion_noted]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 8: End of Beat 2
+[Tension: 50% | Hour: 1.5]
+
+The moon is higher now. Two hours since the ship went down, maybe three.
+The adrenaline has faded completely, replaced by the heavy tiredness
+that comes after crisis.
+
+Mira organizes watches—two on, two off, rotating every few hours.
+No one argues. The structure is a relief after the chaos.
+
+Selin is different now. Still holding the bag, but not clutching it.
+The weight is still there, but it's a weight he's chosen to let you see.
+
+The night stretches ahead. The stars wheel overhead.
+
+You're learning who these people are. What they're carrying.
+The question is what you'll do with that knowledge.
+
+  > Let the second hour pass. The deep night is coming.
+
+  [Trust - Mira: 0.00, Selin: 0.50, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 9: The Deep Night
+[Tension: 25% | Hour: 4.0]
+
+The darkest hour. No moon now—it set an hour ago, leaving only stars.
+The boat feels suspended in blackness, the water and sky bleeding into
+each other at the horizon.
+
+No one is sleeping. The pretense of watches has faded into something
+more honest: four people sitting in darkness, each carrying things
+they haven't said.
+
+Ver is at the stern, wrapped in the emergency tarp, looking at the
+place where the stars meet the sea. Mira is amidships, hands idle
+for once—nothing left to organize, no one left to treat. Selin is
+near the bow, the bag still in his lap, but his grip has changed.
+Less desperate. More tired.
+
+The exhaustion has stripped something away. The professional masks,
+the careful distances. What's left is rawer. More real.
+
+This is the hour when things become speakable that weren't speakable
+before.
+
+  > Sit near Selin. He's carrying more than documents.
+
+  [Trust - Mira: 0.00, Selin: 0.50, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 10: Selin in the Dark
+[Tension: 25% | Hour: 4.0]
+
+Selin is curled against the side of the boat, the bag pressed to his
+chest. He's not asleep—you can see his eyes reflecting starlight.
+
+He knows you're there. He doesn't pull away.
+
+"I keep thinking about her," he says. Quietly. "Elif. That was her
+name. I didn't tell you before."
+
+He looks at the bag.
+
+"I don't even know what's in most of them. Her research. Her life's
+work. And I don't understand any of it." His voice breaks. "She gave
+me everything, and I don't even understand it."
+
+  > "Tell me about her. Elif."
+
+  [Trust - Mira: 0.00, Selin: 0.50, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 11: Selin's Story
+[Tension: 25% | Hour: 4.0]
+
+"Her name was Elif." His voice is steadier now, like saying it out
+loud has made it more real. "She was a history professor. Ottoman
+legal documents—that's what she studied."
+
+He's crying now. Quietly, trying to hide it.
+
+"We sat together at dinner the first night. She talked about her
+work for two hours. I didn't understand half of it, but she made
+it sound... important. Beautiful, even."
+
+He holds the bag tighter.
+
+"When the water started coming in, she gave them to me. She said
+'You're young. You'll make it.' She didn't even try to get to a
+lifeboat. She just made sure I had the bag."
+
+A pause. The stars wheel overhead.
+
+"She wasn't my teacher. She wasn't my friend. She was just...
+someone I met at dinner. And she gave me everything."
+
+His voice cracks.
+
+"I don't even know where to take them. I don't know who her family is.
+I don't know anything except that she trusted me and I can't—"
+
+He stops. Can't finish.
+
+  > "We'll figure it out together. You're not alone with this."
+
+  [Trust - Mira: 0.00, Selin: 0.50, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 12: End of Deep Night
+[Tension: 25% | Hour: 4.0]
+
+The deep night passes. The darkness holds what was said, what was
+shared, what was revealed.
+
+Selin's grip on the bag has changed again. Still protective, but not
+desperate. The weight is still there, but it's a weight that's been
+named, acknowledged. Shared.
+
+The eastern sky is lightening. Not dawn yet, but the promise of it.
+
+The night did something to all of you. The question is whether it
+was enough.
+
+  > Watch the dawn approach.
+
+  [Trust - Mira: 0.00, Selin: 0.75, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth, selin.the_story]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 13: Dawn
+[Tension: 40% | Hour: 6.0]
+
+The light comes slowly. Gray first, then gold, spreading across the
+water like something being forgiven.
+
+For a moment, nothing else matters—just the light, and the four of
+you floating in it.
+
+Then the moment passes, and the question returns: which way?
+
+But the question is different now. It's not just about direction.
+It's about who you've become to each other in the night. What you're
+carrying, and for whom.
+
+Selin is sitting with the bag open in his lap. The documents inside
+are spread out, catching the early light. He's looking at them like
+he's seeing them for the first time.
+
+"Elif would have loved this," he says. "The sunrise. She was always
+talking about light. How it changes things."
+
+  > Talk to Selin. About what comes next.
+
+  [Trust - Mira: 0.00, Selin: 0.75, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth, selin.the_story]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 14: Selin at Dawn
+[Tension: 40% | Hour: 6.0]
+
+Selin is looking at the documents in the morning light. His eyes are
+red—he's been crying again—but there's something different in his
+face. Something like clarity.
+
+"I've been thinking about what you said. About not being alone with it."
+
+He carefully gathers the papers, places them back in the bag.
+
+"I don't know where to take them. I don't know who Elif's family is.
+I don't know anything except that she trusted me." He looks at you.
+"But I know I can't figure it out by myself."
+
+He holds out the bag. Not offering it—just showing.
+
+"Will you help me? When we get there? Help me figure out where these
+need to go?"
+
+It's the first time he's asked for anything.
+
+  > "Yes. We'll figure it out together."
+
+  [Trust - Mira: 0.00, Selin: 0.75, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth, selin.the_story]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 15: Dawn
+[Tension: 40% | Hour: 6.0]
+
+The light comes slowly. Gray first, then gold, spreading across the
+water like something being forgiven.
+
+For a moment, nothing else matters—just the light, and the four of
+you floating in it.
+
+Then the moment passes, and the question returns: which way?
+
+But the question is different now. It's not just about direction.
+It's about who you've become to each other in the night. What you're
+carrying, and for whom.
+
+Selin is sitting with the bag open in his lap. The documents inside
+are spread out, catching the early light. He's looking at them like
+he's seeing them for the first time.
+
+"Elif would have loved this," he says. "The sunrise. She was always
+talking about light. How it changes things."
+
+  > It's time to choose a direction. Together.
+
+  [Trust - Mira: 0.00, Selin: 0.95, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth, selin.the_story, selin.release]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 16: The Ending
+[Tension: 40% | Hour: 6.0]
+
+═══════════════════════════════════════════════════════════════════
+DAWN
+═══════════════════════════════════════════════════════════════════
+
+The sun is fully up now. The lighthouse is visible on the horizon—
+closer than you feared, farther than you hoped.
+
+Someone picks up an oar. Someone else takes the second.
+
+MIRA
+
+She's at the bow, already planning the next steps. Efficient.
+Professional. Whatever she's carrying, she's carrying it alone.
+
+SELIN
+
+He's holding the bag differently now. Still careful, still protective—
+but not desperate. Not alone.
+
+"We'll figure it out," he says. "Where they need to go. Together."
+
+For the first time since you met him, he looks his age. Young.
+But not helpless.
+
+VER
+
+She's at the stern, watching the sunrise with that same settled calm.
+Whatever she's carrying, she carries it with grace.
+
+═══════════════════════════════════════════════════════════════════
+
+Dawn came. Some doors opened. Others stayed closed.
+
+The shore is that way. Whatever comes after the shore—that's still
+unwritten.
+
+But you're not facing it alone.
+
+═══════════════════════════════════════════════════════════════════
+ENDINGS SUMMARY
+═══════════════════════════════════════════════════════════════════
+
+MIRA: Still running. Still alone. Some walls stay up.
+
+SELIN: Let others help carry the burden. Elif's work will reach its
+destination—together.
+
+VER: Her choice remains her own. The others never knew.
+
+YOU: You survived. You were present. That was enough.
+
+═══════════════════════════════════════════════════════════════════
+
+
+=== ARC STATE SUMMARY ===
+Beat: beat_4_ending | Tension: 0.40
+
+MIRA [trust: 0.00]
+
+SELIN [trust: 0.95]
+Triggered: suspicion_noted, partial_truth, the_story, release
+
+VER [trust: 0.00]
+========================
+
+  > [The story ends here]
+
+  [Trust - Mira: 0.00, Selin: 0.95, Ver: 0.00]
+  [Triggered: selin.suspicion_noted, selin.partial_truth, selin.the_story, selin.release]
+
+───────────────────────────────────────────────────────────────────────────
+
+═══════════════════════════════════════════════════════════════════════════
+ENDING
+═══════════════════════════════════════════════════════════════════════════
+
+Overall Tone: BITTERSWEET
+Dawn came. Some doors opened. Others stayed closed.
+
+CHARACTER RESOLUTIONS:
+
+MIRA: closed
+  Still running. Still alone. Some walls stay up.
+
+SELIN: release
+  Let others help carry the burden. Elif's work will reach its destination—together.
+
+VER: private
+  Her choice remains her own. The others never knew.
+
+PLAYER: survivor
+  You survived. You were present. That was enough.
+
+═══════════════════════════════════════════════════════════════════════════
+STATISTICS
+═══════════════════════════════════════════════════════════════════════════
+
+Total Choices Made: 16
+Arcs Triggered: 4
+Arcs Foreclosed: 0
+
+Final Trust Levels:
+  Mira: 0.00
+  Selin: 0.95
+  Ver: 0.00
+  Average: 0.32
+
+Player Pattern:
+  Curious vs Pragmatic: 0.20
+  Gentle vs Pressing: 0.20
+  Selfless vs Self-focused: 0.00
+
+═══════════════════════════════════════════════════════════════════════════

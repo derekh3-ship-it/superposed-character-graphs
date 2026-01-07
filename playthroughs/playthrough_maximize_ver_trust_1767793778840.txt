@@ -1,0 +1,455 @@
+═══════════════════════════════════════════════════════════════════════════
+SUPERPOSED CHARACTER GRAPHS - PLAYTHROUGH
+═══════════════════════════════════════════════════════════════════════════
+
+Strategy: maximize_ver_trust
+Total Choices: 13
+Arcs Triggered: 1
+Average Trust: 0.12
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 1: Surface
+[Tension: 70% | Hour: 0.0]
+
+The water is still warm from the ship's heat. That's the first wrong thing
+you notice—warmth where there should be cold, the Mediterranean holding
+the memory of fire.
+
+The lifeboat rocks. Four of you made it. You don't know how. The last
+twenty minutes are a blur of shouting and smoke and hands reaching in
+darkness, and then you were here, in this small wooden world, watching
+the lights of the ship slide under.
+
+Twenty minutes ago you were a passenger. Now you're a survivor. The
+difference is everything.
+
+The others are shapes in the darkness. A woman at the bow, already
+moving with purpose—checking something, organizing something. A young
+man pressed against the side, arms wrapped around a leather bag like
+it's the only solid thing left in the world. An older woman sitting
+very still, watching the place where the ship used to be.
+
+Stars. No moon yet. The Pharos light sweeping somewhere to the south—
+you can see its glow on the horizon, but not the beam itself. Alexandria
+is that way. Twenty miles, maybe thirty. A lifetime, in a boat like this.
+
+Someone should say something. Someone should take charge.
+
+  > Check what's in the boat. We need to know what we have.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.00]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 2: The Inventory
+[Tension: 70% | Hour: 0.0]
+
+The supplies are in a metal box bolted to the floor of the boat—standard
+emergency equipment, the kind that's required by maritime law and ignored
+by everyone until it matters.
+
+You're not the first one to reach it. The older woman is already there,
+working through the contents with methodical calm. She doesn't look up
+when you crouch beside her, just shifts slightly to make room.
+
+"Two water containers," she says. Her voice is quiet, unhurried—a strange
+counterpoint to the catastrophe you just survived. "One full, one about
+half. Some kind of emergency kit—I haven't opened it yet. Flares, probably.
+Maybe a first aid kit."
+
+Her hands move through the supplies with practiced efficiency. She's done
+this before, or something like it. You can see it in the way she doesn't
+waste motion.
+
+"Oars," she continues. "A tarp. Some rope." She looks up at you now—calm
+eyes, weathered face. "That's the inventory. Not much, but not nothing."
+
+The doctor is checking on the young man with the head wound. The one
+clutching the bag watches everything with wary eyes.
+
+The older woman waits. Patient. Like she has all the time in the world.
+
+  > "You seem calm. Have you done this before?"
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.00]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 3: The Calm
+[Tension: 70% | Hour: 0.0]
+
+She considers the question. Not dismissing it, not deflecting—actually
+thinking about it.
+
+"Calm." She tests the word. "I suppose I am. I'm not sure it's the
+same thing as having done this before."
+
+She finishes closing the emergency kit, sets it aside carefully.
+
+"When you get to my age, you've seen things end. Jobs, marriages,
+people. The ship going down—" She glances at the empty water where
+it used to be. "It's just another ending. Bigger than most, but
+the same shape."
+
+She looks at you directly now. Clear eyes, unhurried.
+
+"I find the panic comes when you're still surprised by loss. When
+you've stopped being surprised..." She shrugs. "What's left is
+just the work that needs doing."
+
+There's something in the way she says it. Not nihilism. Something
+more like... peace? Or resignation that has become peace through
+long practice.
+
+  > "That sounds like wisdom. Or something that cost a lot to learn."
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.00]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 4: Settling
+[Tension: 70% | Hour: 0.0]
+
+The first hour passes in small tasks. Someone finds the sea anchor
+in the emergency kit—a canvas cone that drags in the water and keeps
+you from drifting too fast. Someone else distributes the oars, one
+on each side, though no one starts rowing yet. There's the unspoken
+agreement that decisions can wait until the shock has faded.
+
+Names happen somewhere in there. Mira—the doctor, though she doesn't
+use the word. Ver—the older woman with the calm eyes. Selin—the young
+man, though his comes last and reluctantly.
+
+And you. The fourth. The variable.
+
+The stars wheel overhead. The Pharos light sweeps its distant glow.
+
+You're alive. You're floating. Everything else is still uncertain.
+
+  > Let the first hour pass. See what the night brings.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.15]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 5: Settling
+[Tension: 50% | Hour: 1.5]
+
+The moon rises. Half full, silver-white, enough light to see faces now
+instead of just shapes. The boat feels smaller in the moonlight—the
+four of you closer together, the sea larger all around.
+
+Someone has found a more comfortable position. Someone else has stopped
+shivering, or started. The immediate crisis is past, but the longer
+crisis—the one measured in hours and water rations and distance to
+shore—is just beginning to make itself known.
+
+Mira is sitting near the bow, watchful. Even resting, she has the
+posture of someone ready to respond. Ver is at the stern, looking at
+the stars the way someone might look at old friends. Selin is between
+them, the bag still in his lap, though his grip has eased from desperate
+to merely protective.
+
+The silence isn't uncomfortable. Not yet. But it's full of things unsaid.
+
+  > Join Ver at the stern. She seems like someone who knows how to wait.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.15]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 6: Talking to Ver
+[Tension: 50% | Hour: 1.5]
+
+Ver is sitting at the stern, looking at the stars. Not searching them—
+just looking. The way you might look at a painting you've seen a
+hundred times but still enjoy.
+
+She doesn't seem surprised when you join her. Just shifts slightly
+to make room.
+
+"Beautiful night," she says. "Wrong circumstances, but beautiful."
+
+"You mentioned your husband taught you the stars."
+
+"Mm." A soft sound. "He sailed when he was young. Before I knew him.
+He'd tell me about the constellations when we couldn't sleep."
+
+She points. "That's Polaris. The North Star. Everything else moves,
+but that one stays fixed. And those—" she traces a pattern "—that's
+Orion. The hunter."
+
+"You know them well."
+
+"After forty-three years of listening to the same stories? You'd
+know them too." There's warmth in her voice. And something else.
+A loss, carried lightly.
+
+  > "Tell me about him."
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.15]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 7: Ver - Her Husband
+[Tension: 50% | Hour: 1.5]
+
+She's quiet for a moment. But it's a comfortable quiet—remembering,
+not avoiding.
+
+"Ahmet. He was—" She laughs softly. "He was impossible, really.
+Stubborn. Loud when he was happy, which was most of the time.
+Completely certain he was right about everything."
+
+"Sounds like a handful."
+
+"The best kind." She looks at the stars. "He died in the spring.
+Quickly, thank God. He would have hated being slow about it."
+
+"I'm sorry."
+
+"Don't be. Forty-three years is a fortune. More than most people get."
+She turns to look at you. "I'm not sad. I'm grateful. Does that make
+sense?"
+
+It does and it doesn't. But you nod.
+
+"I was going to see my daughter. Tell her things I should have told
+her years ago. Make sure she knew—" She stops. "Make sure she knew
+everything she needed to know."
+
+The way she says it. Like she's tying up loose ends.
+
+  > Let the moment rest.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.25]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 8: End of Beat 2
+[Tension: 50% | Hour: 1.5]
+
+The moon is higher now. Two hours since the ship went down, maybe three.
+The adrenaline has faded completely, replaced by the heavy tiredness
+that comes after crisis.
+
+Mira organizes watches—two on, two off, rotating every few hours.
+No one argues. The structure is a relief after the chaos.
+
+The night stretches ahead. The stars wheel overhead.
+
+You're learning who these people are. What they're carrying.
+The question is what you'll do with that knowledge.
+
+  > Let the second hour pass. The deep night is coming.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.35]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 9: The Deep Night
+[Tension: 25% | Hour: 4.0]
+
+The darkest hour. No moon now—it set an hour ago, leaving only stars.
+The boat feels suspended in blackness, the water and sky bleeding into
+each other at the horizon.
+
+No one is sleeping. The pretense of watches has faded into something
+more honest: four people sitting in darkness, each carrying things
+they haven't said.
+
+Ver is at the stern, wrapped in the emergency tarp, looking at the
+place where the stars meet the sea. Mira is amidships, hands idle
+for once—nothing left to organize, no one left to treat. Selin is
+near the bow, the bag still in his lap, but his grip has changed.
+Less desperate. More tired.
+
+The exhaustion has stripped something away. The professional masks,
+the careful distances. What's left is rawer. More real.
+
+This is the hour when things become speakable that weren't speakable
+before.
+
+  > Wait. Watch. Let them come to it in their own time.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.35]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 10: Waiting
+[Tension: 25% | Hour: 4.0]
+
+You wait. Watch. Let the darkness do its work.
+
+The boat rocks gently. The stars wheel overhead. Time passes differently
+in the deep night—stretched and compressed at once.
+
+The night holds its secrets loosely now. Ready to release them to
+whoever is patient enough to wait.
+
+  > Let the night pass. Dawn will come.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.35]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 11: End of Deep Night
+[Tension: 25% | Hour: 4.0]
+
+The deep night passes. The darkness holds what was said, what was
+shared, what was revealed.
+
+The eastern sky is lightening. Not dawn yet, but the promise of it.
+
+The night did something to all of you. The question is whether it
+was enough.
+
+  > Watch the dawn approach.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.35]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 12: Dawn
+[Tension: 40% | Hour: 6.0]
+
+The light comes slowly. Gray first, then gold, spreading across the
+water like something being forgiven.
+
+For a moment, nothing else matters—just the light, and the four of
+you floating in it.
+
+Then the moment passes, and the question returns: which way?
+
+But the question is different now. It's not just about direction.
+It's about who you've become to each other in the night. What you're
+carrying, and for whom.
+
+  > It's time to choose a direction. Together.
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.35]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+SCENE 13: The Ending
+[Tension: 40% | Hour: 6.0]
+
+═══════════════════════════════════════════════════════════════════
+DAWN
+═══════════════════════════════════════════════════════════════════
+
+The sun is fully up now. The lighthouse is visible on the horizon—
+closer than you feared, farther than you hoped.
+
+Someone picks up an oar. Someone else takes the second.
+
+MIRA
+
+She's at the bow, already planning the next steps. Efficient.
+Professional. Whatever she's carrying, she's carrying it alone.
+
+SELIN
+
+He's clutching the bag, watching the horizon. Whatever he's carrying,
+he's carrying it alone. Maybe that's how he wants it.
+
+VER
+
+She's at the stern, watching the sunrise with that same settled calm.
+Whatever she's carrying, she carries it with grace.
+
+═══════════════════════════════════════════════════════════════════
+
+Dawn came. You survived. What comes next is still unwritten.
+
+The shore is that way. Whatever comes after the shore—that's still
+unwritten.
+
+But you're not facing it alone.
+
+═══════════════════════════════════════════════════════════════════
+ENDINGS SUMMARY
+═══════════════════════════════════════════════════════════════════
+
+MIRA: Still running. Still alone. Some walls stay up.
+
+SELIN: The bag stays closed. The story stays untold.
+
+VER: Her choice remains her own. The others never knew.
+
+YOU: You survived. You were present. That was enough.
+
+═══════════════════════════════════════════════════════════════════
+
+
+=== ARC STATE SUMMARY ===
+Beat: beat_4_ending | Tension: 0.40
+
+MIRA [trust: 0.00]
+
+SELIN [trust: 0.00]
+
+VER [trust: 0.35]
+Triggered: quiet_competence
+In Progress: the_noticing(90%)
+========================
+
+  > [The story ends here]
+
+  [Trust - Mira: 0.00, Selin: 0.00, Ver: 0.35]
+  [Triggered: ver.quiet_competence]
+
+───────────────────────────────────────────────────────────────────────────
+
+═══════════════════════════════════════════════════════════════════════════
+ENDING
+═══════════════════════════════════════════════════════════════════════════
+
+Overall Tone: QUIET
+Dawn came. You survived. What comes next is still unwritten.
+
+CHARACTER RESOLUTIONS:
+
+MIRA: closed
+  Still running. Still alone. Some walls stay up.
+
+SELIN: closed
+  The bag stays closed. The story stays untold.
+
+VER: private
+  Her choice remains her own. The others never knew.
+
+PLAYER: survivor
+  You survived. You were present. That was enough.
+
+═══════════════════════════════════════════════════════════════════════════
+STATISTICS
+═══════════════════════════════════════════════════════════════════════════
+
+Total Choices Made: 13
+Arcs Triggered: 1
+Arcs Foreclosed: 0
+
+Final Trust Levels:
+  Mira: 0.00
+  Selin: 0.00
+  Ver: 0.35
+  Average: 0.12
+
+Player Pattern:
+  Curious vs Pragmatic: -0.10
+  Gentle vs Pressing: 0.45
+  Selfless vs Self-focused: 0.00
+
+═══════════════════════════════════════════════════════════════════════════
